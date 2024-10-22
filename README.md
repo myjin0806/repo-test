@@ -14,4 +14,5 @@ ___굵고 기울임___
 2. 항목 2
  1. 하위 항목
 
-[GitHub](https://github.com
+[GitHub](https://github.com)
+![loading](https://github.com/user-attachments/assets/2f1a1bf3-bbbd-483f-ae91-52a58a9ccda0)
